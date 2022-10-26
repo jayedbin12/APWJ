@@ -1,8 +1,4 @@
-package com.hasib.java.practice;/*
- * Created by S M Al Hasib on 10/14/22, 11:20 AM
- * Copyright (c) 2022 . All rights reserved.
- * Last modified 10/14/22, 11:20 AM
- */
+package com.hasib.java.practice;
 
 import java.time.LocalDate;
 import java.time.Period;
